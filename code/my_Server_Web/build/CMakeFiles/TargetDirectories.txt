@@ -1,0 +1,6 @@
+/mnt/hgfs/ubantu_share/my_Server_Web/build/CMakeFiles/my_Server_Web.dir
+/mnt/hgfs/ubantu_share/my_Server_Web/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ubantu_share/my_Server_Web/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/CMakeFiles/locker.dir
+/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/CMakeFiles/rebuild_cache.dir

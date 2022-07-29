@@ -1,0 +1,4 @@
+/soft/cmake-3.22.4/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /mnt/hgfs/ubantu_share/my_Server_Web -B /mnt/hgfs/ubantu_share/my_Server_Web/build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/hgfs/ubantu_share/my_Server_Web/build

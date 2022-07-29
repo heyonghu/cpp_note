@@ -1,0 +1,8 @@
+# ninja log v5
+0	1149	6798566236713081	CMakeFiles/my_Server_Web.dir/main.cpp.obj	164adb3654576aca
+1151	1455	6798566239734515	my_Server_Web.exe	80eec4ae2a10a33c
+23	1537	6799370486351312	build.ninja	223f76f662a54e85
+5	942	6799370496677264	CMakeFiles/my_Server_Web.dir/webserver.cpp.obj	fd626af2bcae842e
+7	1429	6799370501551680	CMakeFiles/my_Server_Web.dir/main.cpp.obj	164adb3654576aca
+4	258	6799370596727930	CMakeFiles/my_Server_Web.dir/config.cpp.obj	a237ffe157c51cb5
+258	1096	6799370605096361	my_Server_Web.exe	b2a0d5af70a7ea0c

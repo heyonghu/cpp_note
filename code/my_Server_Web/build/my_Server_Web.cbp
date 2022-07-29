@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="my_Server_Web"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lock\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_Server_Web">
+				<Option output="/mnt/hgfs/ubantu_share/my_Server_Web/build/my_Server_Web" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/hgfs/ubantu_share/my_Server_Web/lock"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 my_Server_Web"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_Server_Web/fast">
+				<Option output="/mnt/hgfs/ubantu_share/my_Server_Web/build/my_Server_Web" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/hgfs/ubantu_share/my_Server_Web/lock"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 my_Server_Web/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="locker">
+				<Option output="/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/liblocker.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build/lock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 locker"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="locker/fast">
+				<Option output="/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/liblocker.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/hgfs/ubantu_share/my_Server_Web/build/lock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 locker/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/hgfs/ubantu_share/my_Server_Web/build/lock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/config.cpp">
+			<Option target="my_Server_Web"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/config.h">
+			<Option target="my_Server_Web"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/lock/locker.cpp">
+			<Option target="locker"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/lock/locker.h">
+			<Option target="locker"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/main.cpp">
+			<Option target="my_Server_Web"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/webserver.cpp">
+			<Option target="my_Server_Web"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/webserver.h">
+			<Option target="my_Server_Web"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/hgfs/ubantu_share/my_Server_Web/lock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lock\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

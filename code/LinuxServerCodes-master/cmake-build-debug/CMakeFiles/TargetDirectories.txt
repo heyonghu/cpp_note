@@ -1,0 +1,3 @@
+D:/ubantu_share/LinuxServerCodes-master/cmake-build-debug/CMakeFiles/LinuxServerCodes_master.dir
+D:/ubantu_share/LinuxServerCodes-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ubantu_share/LinuxServerCodes-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

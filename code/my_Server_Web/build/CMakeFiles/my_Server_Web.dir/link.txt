@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/my_Server_Web.dir/config.cpp.o CMakeFiles/my_Server_Web.dir/main.cpp.o CMakeFiles/my_Server_Web.dir/webserver.cpp.o -o my_Server_Web  lock/liblocker.a 
